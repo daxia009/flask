@@ -10,7 +10,7 @@ def index():
     class Person(object):
         name = u'李长春'
         age = 33
-r
+
     lcc = Person()
 
 
